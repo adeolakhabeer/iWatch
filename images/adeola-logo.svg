@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="16.2138mm" height="6.0875mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2427 911.22"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="620" font-variant="normal" style="fill-rule:nonzero" font-weight="600">
+	<font-face 
+		font-family="Apple SD Gothic Neo">
+		<font-face-src>
+			<font-face-name name="Apple SD Gothic Neo SemiBold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="!" horiz-adv-x="277" d="M94.0036 239.999l88.9957 0 13.0039 509.998 -1.15003e+002 0 13.0039 -5.09998e+002zm-1.00039e+001 -2.08995e+002l109.996 0 0 108 -1.09996e+002 0 0 -1.08e+002z"/>
+   <glyph unicode="-" horiz-adv-x="386" d="M40.9959 329.999l298.003 0 0 85.0036 -2.98003e+002 0 0 -8.50036e+001z"/>
+   <glyph unicode="&lt;" horiz-adv-x="487" d="M424.002 91.9957l0 94.0036 -2.72999e+002 172.003 272.999 172.995 0 92.9996 -3.74006e+002 -2.26995e+002 0 -7.79997e+001 374.006 -2.27007e+002z"/>
+   <glyph unicode="&gt;" horiz-adv-x="487" d="M427.002 319.003l0 77.9997 -3.74006e+002 226.995 0 -9.29996e+001 272.007 -1.72995e+002 -2.72007e+002 -1.72003e+002 0 -9.40036e+001 374.006 227.007z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Apple SD Gothic Neo";font-variant:normal;font-weight:600;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#373535}
+    .fnt0 {font-weight:600;font-size:1267.36px;font-family:'Apple SD Gothic Neo'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-63.36" y="950.51"  class="fil0 fnt0">&lt;!--&gt;</text>
+ </g>
+</svg>

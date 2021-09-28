@@ -1,0 +1,24 @@
+$bg-color: #2a2d3c;
+$accent-color: #e63a39;
+$text-color: #fbfcff;
+$primary-color: #efd3c8;
+$primary2-color: #4f6799;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body {
+  background-color: $bg-color;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem 10px;
+}
+.grid-item {
+  background-color: $primary-color;
+}

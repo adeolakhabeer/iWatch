@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: #2a2d3c;
+}
+
+nav {
+  background-color: #35394d;
+  padding: 1rem;
+  width: 70vw;
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+nav img {
+  height: 40px;
+  width: auto;
+  cursor: pointer;
+}
+nav #search {
+  padding: 0.7rem 1.5rem;
+  border-radius: 3.125rem;
+  border: none;
+}
+nav ul {
+  display: flex;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul a {
+  text-decoration: none;
+  color: #fbfcff;
+  margin: 0 1rem;
+  padding-bottom: 1rem;
+}
+nav ul a:hover {
+  color: #e63a39;
+  border-bottom: 2px solid #e63a39;
+}
+
+.container {
+  width: 70vw;
+  display: flex;
+  margin: 6rem auto;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+.container .content {
+  flex: 1;
+  flex-wrap: wrap;
+  padding: 0 3rem 0 0;
+}
+.container .image {
+  flex: 1;
+}
+.container h1 {
+  font-size: 4rem;
+  color: #efd3c8;
+}
+.container h2 {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+  color: #4f6799;
+}
+.container p {
+  color: #fbfcff;
+  line-height: 1.5rem;
+  margin-bottom: 3rem;
+}
+.container img {
+  width: 30rem;
+  height: auto;
+}
+.container .solid-btn {
+  background-color: #e63a39;
+  color: #fbfcff;
+  padding: 0.8rem 2rem;
+  border-radius: 3.125rem;
+  border: none;
+  margin-top: 3rem;
+  cursor: pointer;
+}
+.container .outline-btn {
+  margin-left: 1rem;
+  background-color: transparent;
+  color: #fbfcff;
+  padding: 0.8rem 2rem;
+  border-radius: 3.125rem;
+  border: 1px solid #e63a39;
+  cursor: pointer;
+}
+.container ul {
+  margin-left: 1rem;
+}
+.container ul li {
+  list-style: none;
+  text-decoration: none;
+  line-height: 2.5rem;
+  color: #fbfcff;
+  margin: 0 1rem;
+}
+
+.colors span {
+  width: 60%;
+  display: flex;
+  color: #fbfcff;
+}
+.colors span div {
+  display: inline-block;
+  margin-left: 5px;
+}
+.colors span div .red {
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 3.125rem;
+  background-color: #e63a39;
+}
+.colors span div .steelblue {
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 3.125rem;
+  background-color: steelblue;
+}
+.colors span div .peachpuff {
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 3.125rem;
+  background-color: peachpuff;
+}
+.colors span div .pink {
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 3.125rem;
+  background-color: pink;
+}
+.colors span div .slate {
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 3.125rem;
+  background-color: salmon;
+}
+
+footer {
+  background-color: slategrey;
+  padding: 1rem;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  width: 70vw;
+}
+footer p {
+  text-align: center;
+  font-size: small;
+  color: #dae0e7;
+}
+footer span {
+  font-style: italic;
+  color: lavender;
+}
+
+/*# sourceMappingURL=iwatch7.css.map */
